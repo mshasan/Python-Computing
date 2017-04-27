@@ -1,5 +1,4 @@
 # Python-Computing
-Advanced computing in Python
 
 Shows advanced computing techniques:
 
